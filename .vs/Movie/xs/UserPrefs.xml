@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8D042737-DAD9-4079-A4A0-3F1CC44B93BA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Movie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie Status">
+    <Files>
+      <File FileName="Properties/launchSettings.json" Line="8" Column="6" />
+      <File FileName="Movie Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
